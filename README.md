@@ -61,7 +61,7 @@ Exemplos:
 
 Para mais informações sobre commits semânticos, consulte:
 
-- [AdraSun Commit Guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit)
+- [AdraSun Commit Guidelines](https://andra-sun.github.io/posts/commit-semantico/)
 
 ## Regras do Projeto
 
